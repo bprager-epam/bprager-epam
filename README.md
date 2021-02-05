@@ -1,8 +1,7 @@
 ### Hi there 👋
 BERND PRAGER
 
-
-[#39C2D7]***Director, Delivery Management***
+***Director, Delivery Management***
 
 Office:  +1 267 759 9000x41997   
 

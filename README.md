@@ -1,4 +1,14 @@
 ### Hi there 👋
+BERND PRAGER
+Director, Delivery Management
+
+Office:  +1 267 759 9000x41997   
+Email:  Bernd_Prager@epam.com
+Microsoft Teams:  Call On Teams   LinkedIn
+
+11601 Wilshire Blvd, Suite 350
+Los Angeles, CA, 90025, United States
+Timezone: (UTC+07:00)
 
 <!--
 **bprager-epam/bprager-epam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

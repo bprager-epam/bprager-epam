@@ -1,13 +1,20 @@
 ### Hi there 👋
 BERND PRAGER
-Director, Delivery Management
+
+
+[#39C2D7]***Director, Delivery Management***
 
 Office:  +1 267 759 9000x41997   
+
 Email:  Bernd_Prager@epam.com
-Microsoft Teams:  Call On Teams   LinkedIn
+
+
+Microsoft Teams:  [Call On Teams](https://teams.microsoft.com/l/chat/0/0?users=Bernd_Prager@epam.com)   [LinkedIn](https://www.linkedin.com/in/bprager/)
 
 11601 Wilshire Blvd, Suite 350
+
 Los Angeles, CA, 90025, United States
+
 Timezone: (UTC+07:00)
 
 <!--
